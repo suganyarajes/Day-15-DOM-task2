@@ -15,7 +15,7 @@ function submitForm() {
     return;
   }
 
-  var table = document.getElementById("table");
+  var table = document.getElementById("result");
 
   var newRow = table.insertRow(-1);
 
